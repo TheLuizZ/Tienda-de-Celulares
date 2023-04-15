@@ -1,0 +1,75 @@
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.exe
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.deps.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.runtimeconfig.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.runtimeconfig.dev.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\ref\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.pdb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbprojAssemblyReference.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form1.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form2.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form3.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbproj.GenerateResource.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.AssemblyInfoInputs.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.AssemblyInfo.vb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbproj.CoreCompileInputs.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\ref\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.pdb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.genruntimeconfig.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form4.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form5.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form6.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form7.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.exe
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.deps.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.runtimeconfig.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.runtimeconfig.dev.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\ref\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.pdb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbprojAssemblyReference.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form1.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form2.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form3.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form4.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form5.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form6.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form7.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbproj.GenerateResource.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.AssemblyInfoInputs.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.AssemblyInfo.vb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbproj.CoreCompileInputs.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\ref\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.pdb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.genruntimeconfig.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares - copia - copia - copia (2)\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Resources.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE II\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Resources.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.exe
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.deps.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.runtimeconfig.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.runtimeconfig.dev.json
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\ref\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\bin\Debug\net5.0-windows\Tienda de Celulares.pdb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbprojAssemblyReference.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form1.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form2.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form3.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form4.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form5.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form6.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Form7.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda_de_Celulares.Resources.resources
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbproj.GenerateResource.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.AssemblyInfoInputs.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.AssemblyInfo.vb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.vbproj.CoreCompileInputs.cache
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\ref\Tienda de Celulares.dll
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.pdb
+C:\Users\TheLuizZ\Desktop\1500-LENGUAJE DE PROGRAMACION II\III PARCIAL\Proyecto\FASE III\Tienda de Celulares\Tienda de Celulares\obj\Debug\net5.0-windows\Tienda de Celulares.genruntimeconfig.cache
